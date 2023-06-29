@@ -1,8 +1,19 @@
 {
-  "index": "Introduction",
+  "index": {
+    "title": "Introduction",
+    "theme": {
+      "layout": "full"
+    }
+  },
   "sport-arts-and-culture": "Sport Arts & Culture",
   "about": {
     "title": "About",
     "type": "page"
+  },
+  "upcoming": {
+    "title": "Upcoming Sectors",
+    "theme": {
+      "layout": "full"
+    }
   }
 }
