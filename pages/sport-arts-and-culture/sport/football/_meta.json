@@ -1,6 +1,5 @@
 {
-  "psl": "PSL",
-  "club": "Club",
-  "varsity": "Varsity",
-  "school": "School"
+  "club-football": "Club Football",
+  "varsity-football": "Varsity Football",
+  "school-football": "School Football"
 }
