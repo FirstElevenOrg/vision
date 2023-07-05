@@ -49,7 +49,7 @@ We hope to achieve a more competitive and focused environment within the PSL by 
 _The following is the planned full league system for South African football, covering from the top flight through the 12th division_
 
 **To see the entire image, right-click on it and choose "Open image in new tab" or "Open link in new tab" from the menu.**
-![Alt Text](public/assets/sa-football-structure.svg)
+![sa-football-structure](public/assets/sa-football-structure.svg)
 
 ### Premier Soccer League
 
@@ -133,8 +133,6 @@ _**In some divisions, there are no playoffs; instead, it is a straight promotion
 - **Parow** Soccer Premier League
 - **More ...**
 
-\*\*
-
 ### Twelfth Division
 
 - **Khayelitsha** Championship
@@ -157,3 +155,5 @@ The new league system emphasizes that clubs should be called after sub-divisions
 - Cape Town City
 - Paarl FC
 - Durbanville FC
+
+ref : https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_the_Western_Cape
