@@ -10,14 +10,24 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/TXEu2nFyAk',
   },
-  footer: {
-    text: 'Made by FirstEleven',
-  },
   useNextSeoProps() {
      return {
       titleTemplate: '%s'
     }
   },
+  footer: {
+    text:(
+    <center>
+      <div className="flex w-full flex-col items-center sm:items-start">
+          <p>
+            © {new Date().getFullYear()} All rights reserved <a href="https://www.firsteleven.co.za/"> by FirstEleven Inc</a>.
+          </p>
+      </div> 
+    </center>
+    ),
+  }
 }
 
 export default config
+
+
